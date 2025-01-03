@@ -16,7 +16,7 @@ body {
   align-items: center;
   padding: 50px 20px;
   background-color: #000;
-  background: url(/images/section3.jpg);
+  background: url(images/section3.jpg);
   background-position: top;
   min-height: 100vh;
   position: relative;
