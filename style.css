@@ -83,7 +83,7 @@ body {
   width: 100%;
   background-color: rgb(11, 11, 11);
   color: white;
-  padding: 50px 20px; /* Same padding as stats-section */
+  padding: 50px 20px; 
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -97,50 +97,50 @@ body {
 }
 
 .transparent-box {
-  background-color: rgba(0, 0, 0, 0.5); /* Transparent black background */
+  background-color: rgba(0, 0, 0, 0.5); 
   padding: 20px;
   border-radius: 10px;
-  text-align: center; /* Center align text and logos */
+  text-align: center; /
 }
 
 .partners-header {
   display: flex;
-  flex-direction: column; /* Stack text and logos vertically */
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-bottom: 20px; /* Add some distance after "Our Partners" */
+  margin-bottom: 20px; 
 }
 
 .partners-header h2 {
   font-size: 2em;
-  margin-bottom: 20px; /* Add some distance after "Our Partners" */
-  text-align: center; /* Center align text */
+  margin-bottom: 20px; 
+  text-align: center; 
 }
 
 .partners-logos {
   display: flex;
-  gap: 20px; /* Adjust spacing between logos */
-  justify-content: center; /* Center align logos */
+  gap: 20px; 
+  justify-content: center; 
 }
 
 .partner-logo img {
-  max-width: 120px; /* Increase the size of the logos */
+  max-width: 120px; 
   height: auto;
 }
 
 .partner-logo {
-  background-color: rgb(11, 11, 11); /* Match the section background color */
-  padding: 0; /* Remove padding */
+  background-color: rgb(11, 11, 11); 
+  padding: 0; 
   display: flex;
   align-items: center;
   justify-content: center;
-  transition: none; /* Remove hover effect */
+  transition: none; 
 }
 
 /* Acceleration Section */
 .acceleration-section {
   background: url('path-to-your-background.jpg') center/cover;
-  padding: 50px 20px; /* Same padding as stats-section */
+  padding: 50px 20px; 
   text-align: center;
   position: relative;
 }
@@ -170,7 +170,7 @@ body {
   font-size: 1em;
   cursor: pointer;
   transition: background-color 0.3s ease;
-  text-align: center; /* Center the text */
+  text-align: center; 
 }
 
 .get-started-btn:hover {
